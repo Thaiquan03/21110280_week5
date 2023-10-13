@@ -1,0 +1,15 @@
+{
+  "name": "w4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "21110280.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
